@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on [React Native](https://github.com/JulesBestDev176/REACT.git)
 
-- 🌱 I’m currently learning **React Native, Java, Python, C++**
+- 🌱 I’m currently learning **React, Java, Laravel**
 
 - 👨‍💻 All of my projects are available at [https://souleymanefall176.github.io/PortFolio/](https://souleymanefall176.github.io/PortFolio/)
 
-- 💬 Ask me about **C, JS, Python, Java, C++**
+- 💬 Ask me about **JS, React, Laravel, Java**
 
 - 📫 How to reach me **souleymanefallpro@gmail.com**
 
