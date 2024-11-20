@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julesbestdev176&label=Profile%20views&color=0e75b6&style=flat" alt="julesbestdev176" /> </p>
 
-- 🔭 I’m currently working on [React Native](https://github.com/JulesBestDev176/REACT.git)
+- 🔭 I’m currently working on [React](https://github.com/JulesBestDev176/REACT.git)
 
 - 🌱 I’m currently learning **React, Java, Laravel**
 
